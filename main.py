@@ -23,5 +23,5 @@ print(2500)
 
 user_input = input("true or false  ")
 
-print(2500)
+print(2500.00)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
